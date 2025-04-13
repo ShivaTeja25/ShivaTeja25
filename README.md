@@ -1,6 +1,6 @@
 # Hi, I'm Shiva Teja! 
 
-I'm a graduate student at **The George Washington University**, pursuing a Master's in Computer Science. With over 2 years of hands-on experience in **full-stack development**, I specialize in building **scalable web applications**, crafting **secure RESTful APIs**, and deploying cloud-native solutions using **Java Spring Boot**, **React**, **Python**, **Django** and **AWS**.
+I'm a graduate student at **The George Washington University**, pursuing a Master's in Computer Science. With over 2 years of hands-on experience in **full-stack development**, I specialize in building **scalable web applications**, crafting **secure RESTful APIs**, and deploying cloud-native solutions using **Java Spring Boot**, **React**, **Python**, **Django**, **SQL**, **NoSQL** and **AWS**.
 
 I’m driven by a passion for clean architecture, backend performance, and DevOps automation. My experience includes:
 
