@@ -13,7 +13,7 @@ I enjoy solving real-world problems through technology and collaborating on mean
 
 ---
 
-### Languages and Tools:
+### Skills
 - **Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
 - **Frameworks & Libraries:** Spring Boot, ReactJS, RestAPI's, Hibernate, Django  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Oracle  
