@@ -15,7 +15,7 @@ I enjoy solving real-world problems through technology and collaborating on mean
 
 ### Skills
 - **Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks & Libraries:** Spring Boot, ReactJS, RestAPI's, Hibernate, Django  
+- **Frameworks & Libraries:** Spring Boot, ReactJS, RestAPI's, Appian, Hibernate, Django  
 - **Databases:** PostgreSQL, MySQL, MongoDB, Oracle  
 - **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda, VPC), Docker, Jenkins, Kubernetes  
 - **Tools:** Git, Postman, JUnit, Maven, Redis, Apache Kafka, Linux
